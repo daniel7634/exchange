@@ -23,7 +23,6 @@ pip install -r requirements.txt
 ```
 python manage.py runserver 8080
 ```
-Django 伺服器將在 http://127.0.0.1:8080/ 上運行。
 打開瀏覽器，前往 `http://127.0.0.1:8080/rate/`，就可以用 GET 使用此 API。
 
 ### 範例
